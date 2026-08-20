@@ -20,7 +20,7 @@ Now, try to improve your score by testing three different 'hypotheses.' Remember
 
 - NN architecture: Switch your model's backbone. For example, swap a standard VGG for a ResNet, or experiment with more modern architectures (EfficientNet) and feature extractors (DinoV3).
 
-- Data augmentation: Implement different data augmentation strategies available in PyTorch. 
+- Data augmentation: Implement different data augmentation strategies available in PyTorch.
 
 - Optimisation: Change how your model learns. This could involve trying different optimisers (e.g., swapping Adam for AdamW), implementing a Learning Rate Scheduler (like Cosine Annealing), or refining your fine-tuning strategy (e.g., freezing different layers of a pre-trained model).
 
